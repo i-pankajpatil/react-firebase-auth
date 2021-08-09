@@ -1,2 +1,10 @@
 # react-firebase-auth
-Authentication in react with firebase
+ReactJS app with firebase authentication
+
+![Homepage](/public/homepage.png)
+
+# Steps to use
+> 1. Clone
+> 2. yarn install
+> 3. yarn start
+> 4. Open http://localhost:3000 to view it in the browser.
